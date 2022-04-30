@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">意図</string>
+    <string name="txt_titulo">意図</string>
+    <string name="btn_1">戻る</string>
+    <string name="tbtn_1">ウィンドウ1</string>
+    <string name="btn_2">ウィンドウ2</string>
+    <string name="btn_3">グーグルへ</string>
+    <string name="txt_tituloop">Realizar Operaciónes</string>
+    <string name="txt_suma">Ingresa Un Numero!</string>
+    <string name="txt_sumar">Vamos Ingresa Otro Numero!</string>
+    <string name="txt_tituloopbtn">Realizar Suma!</string>
+    <string name="titulo_opbtnrg" >Regresar !</string>
+    <string name="titulo_opRes">"Este Es El Resultado: "</string>
+    <string name="txt_resultado">Este Es EL Resultado:</string>
+</resources>

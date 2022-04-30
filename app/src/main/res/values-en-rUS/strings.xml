@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intentions</string>
+    <string name="btn_3">A Google</string>
+    <string name="btn_2">Window 2</string>
+    <string name="tbtn_1">Window 1</string>
+    <string name="txt_titulo">Intentions</string>
+    <string name="btn_1">Come On !</string>
+    <string name="txt_tituloop">Realice the Operations</string>
+    <string name="txt_suma">Insert A Number !</string>
+    <string name="txt_sumar">GO Ingresate Other Number!</string>
+    <string name="txt_tituloopbtn">Realice The Adittion !</string>
+    <string name="titulo_opbtnrg" >Come On !</string>
+    <string name="titulo_opRes">"This Is Result: "</string>
+    <string name="txt_resultado">"This Is Result: "</string>
+</resources>
